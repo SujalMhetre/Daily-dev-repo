@@ -1,0 +1,6 @@
+## 🚨 Streak Break: 9–11 August 2025 
+From 9th August to 11th August 2025, I completely broke my daily update streak. I did not log any progress on these days in real time, and I am writing this retrospectively. The truth is, I let momentum slip and allowed non-coding tasks, distractions, and inertia to take priority. This log isn’t to justify it — it’s to acknowledge the gap, accept the missed opportunities, and move forward with renewed consistency.
+## What i did on 11-August:
+Spent the entire day at the vehicle service center, closely observing the process as per my dad’s suggestion. While it consumed the whole day, the evening was spent reflecting on my stalled developer journey — over 10 days without coding or tangible progress. Considered how to resume: whether to start fresh or revise old work. Resolved to update my daily dev repo but pushed it to the next day, consciously choosing to mark three consecutive days of absence instead of acting immediately.
+## Quote of the Day:
+"Reflection without execution is just procrastination in disguise."
