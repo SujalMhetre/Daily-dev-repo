@@ -15,8 +15,10 @@ Preview available below 👇
 
 ### 📸 Preview
 
-![Project Preview](./screenshot1.png)
-                  (./screenshot2.png)  
+![Project Preview]
+![Day Mode](./screenshot1.png)  
+![Night Mode](./screenshot2.png)
+
 
 ### 📁 Files:
 
